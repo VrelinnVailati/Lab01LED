@@ -11,6 +11,13 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Presione el botón para encender el led" />
+
+    <Button
+        android:id="@+id/xbnVerificarConexion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Verificar Conexión" />
+
     <ToggleButton
         android:id="@+id/xtbEstado"
         android:textOn="ON"
